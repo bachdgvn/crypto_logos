@@ -1,4 +1,4 @@
-Crypto's logo from CoinMarketCap
+All crypto's logos from CoinMarketCap
 
 In this repository, you will find all cryptocurrency logos that are available on CoinMarketCap.
 
